@@ -1,0 +1,14 @@
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\bin\Debug\net6.0\greatAdventure.exe
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\bin\Debug\net6.0\greatAdventure.deps.json
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\bin\Debug\net6.0\greatAdventure.runtimeconfig.json
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\bin\Debug\net6.0\greatAdventure.dll
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\bin\Debug\net6.0\greatAdventure.pdb
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfoInputs.cache
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfo.cs
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.dll
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\refint\greatAdventure.dll
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.pdb
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\greatAdventure.genruntimeconfig.cache
+C:\Users\Topher\Desktop\NMC\Application Dev\week1\greatAdventure\greatAdventure\obj\Debug\net6.0\ref\greatAdventure.dll
